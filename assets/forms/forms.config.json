@@ -1,0 +1,66 @@
+
+{      
+      "DS": 
+            {
+                  "type": "DS",
+                  "DRX": 22,
+                  "DRY": 23,
+                  "NAMEX":24,
+                  "NAMEY":25,
+                  "EMPNOX":74,
+                  "R":252,
+                  "G":179,
+                  "B":195
+            }
+      ,
+      "PLDT": 
+            {
+                  "type": "PLDT",
+                  "DRX": -45,
+                  "DRY": 35,
+                  "NAMEX":20,
+                  "NAMEY":-120,
+                  "EMPNOX":70,
+                  "R":252,
+                  "G":179,
+                  "B":195
+            }
+      ,
+      "FSDL_SR": 
+      {
+            "type": "FSDL_SR",
+            "DRX": -50,
+            "DRY": 25,
+            "NAMEX":15,
+            "NAMEY":-123,
+            "EMPNOX":70,
+            "R":156,
+            "G":220,
+            "B":236
+      },
+      "MPL": 
+      {
+            "type": "MPL",
+            "DRX": -50,
+            "DRY": 40,
+            "NAMEX":12,
+            "NAMEY":-81,
+            "EMPNOX":65,
+            "R":148,
+            "G":194,
+            "B":164
+      }
+      ,
+      "SUBS": 
+      {
+            "type": "SUBS",
+            "DRX": -45,
+            "DRY": 30,
+            "NAMEX":12,
+            "NAMEY":-148,
+            "EMPNOX":63,
+            "R":252,
+            "G":252,
+            "B":164
+      }
+}

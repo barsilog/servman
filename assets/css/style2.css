@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  font-family: 'Poppins', sans-serif;
+
+
+}
+
+body{
+  min-height: 100vh;
+  }
+
+.container-fluid {
+	background-color: #04151F;
+	color: white;
+	padding: 5px 0px 5px 10px; 
+	letter-spacing: 1px;
+}
+
+.container {
+	margin-top: 10px;
+}
+
+.listOfLoanApp {
+	text-align: center;
+	background-color: #134611;
+	margin-bottom: 20px;
+	color: white;
+}
+
+.loanAppDetailsPage {
+	text-align: left;
+	background-color: #134611;
+	color: white;
+	padding-left: 5px;
+}
+
+.loanAppBasicInfo {
+	text-align: left;
+	background-color: #73937E;
+	color: white;
+	padding-left: 5px;
+	margin-bottom: 20px;
+}
+
+.loanAppBasicInfo p {
+	display: inline-block;
+	margin-bottom: -5px;
+	margin-right: 200px;
+}
+
+.memberInfoLabel{
+	text-align: center;
+	color: white;
+	background-color: #134611;
+}
+
+.memberInfo {
+	margin-bottom: 20px;
+}

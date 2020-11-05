@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+menu {
+    margin: auto;
+}
+
+.form {
+    color: #fff;
+    display: none;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.form.visible {
+    display: block;
+}
+
+
+/* Striped border - Change background color to liking (: */
+
+.h6-bod {
+    text-align: center;
+    margin-bottom: 2%;
+    font-weight: bold;
+    color: #fff;
+    background-color: #4D5A43;
+}
+
+.h3-bod {
+    font-weight: bold;
+    color: #fff;
+    background-color: #444446;
+}
+
+
+/* Removes weird white border - Data Table (Contents) (: */
+
+
+/* Removes weird white border - Data Table (Header) (: */
+
+.undo-bod {
+    margin: 2%;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.button-bod {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+    height:200x;
+}
+
+.undo-disapproval-button {
+    display: flex;
+    justify-content: center;
+}
+
+.application-detail-bod {
+    display: flex;
+    justify-content: space-between;
+    background-color: #444446;
+    color: #fff;
+}
+
+.application-detail-bod h5 {
+    margin-top: 1%;
+}
+
+.application-detail-headers {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 2%;
+}
+
+.flexbox-item {
+    width: 33%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.flexbox-item:last-child {
+    width: 100%;
+}
+
+.flexbox-item h6 {
+    margin-top: 2%;
+    font-weight: bold;
+    color: white;
+    background-color: #4D5A43;
+    text-align: center;
+}
+
+.html-text-box {
+    width: 100%;
+    height: 70%;
+}
+
+.btn-flexbox {
+    display: flex;
+    justify-content: space-around;
+    padding: .5%;
+    text-align: center;
+}
+
+.html-text-box-approve {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #02AE52;
+    border: none;
+    color: white;
+    padding: 1% 10%;
+}
+
+.html-text-box-disapprove {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #D09963;
+    border: none;
+    color: white;
+    padding: 1% 10%;
+}
+
+.tableBOD {
+    padding: .5% 2%;
+}
